@@ -21,7 +21,7 @@ A simple meeting scheduler built using **React (Vite)** and **PHP + MySQL**.
 2. Import `migrate.sql` into MySQL
 3. Start Apache & MySQL (XAMPP)
 4. Backend URL:
-   http://localhost/projects/scheduler-app/backend/api/get-slots.php
+   http://localhost/scheduler-app/backend/api/get-slots.php
 
 ### Frontend
 ```bash
